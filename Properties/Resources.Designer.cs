@@ -173,6 +173,16 @@ namespace TelikiErgasiaAllilepidrasi.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap drive {
+            get {
+                object obj = ResourceManager.GetObject("drive", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hall {
             get {
                 object obj = ResourceManager.GetObject("hall", resourceCulture);
@@ -203,9 +213,69 @@ namespace TelikiErgasiaAllilepidrasi.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap HorseDown {
+            get {
+                object obj = ResourceManager.GetObject("HorseDown", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap horseFlip {
+            get {
+                object obj = ResourceManager.GetObject("horseFlip", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap horseFlipDown {
+            get {
+                object obj = ResourceManager.GetObject("horseFlipDown", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap horseFlipUp {
+            get {
+                object obj = ResourceManager.GetObject("horseFlipUp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap horseUp {
+            get {
+                object obj = ResourceManager.GetObject("horseUp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap kipos {
             get {
                 object obj = ResourceManager.GetObject("kipos", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lader {
+            get {
+                object obj = ResourceManager.GetObject("lader", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -316,6 +386,16 @@ namespace TelikiErgasiaAllilepidrasi.Properties {
         internal static System.Drawing.Bitmap on_off_button {
             get {
                 object obj = ResourceManager.GetObject("on-off-button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Parking {
+            get {
+                object obj = ResourceManager.GetObject("Parking", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
